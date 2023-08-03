@@ -1,6 +1,6 @@
 # Product Summariastion 
 
-![Example Image](image.jpg)
+![Example Image](image.jfif)
 
 ## Description
 
